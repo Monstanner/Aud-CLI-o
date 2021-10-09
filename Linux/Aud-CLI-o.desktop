@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=Aud-CLI-o
+Comment=Zum herunterladen von Liedern auf YouTube und anderen Plattformen.
+Exec=bash /Pfad/zu/Aud-CLI-o.sh
+Icon=/Pfad/zum/Icon.png
+Terminal=true
+Type=Application
+Categories=Network;
