@@ -102,7 +102,7 @@ do
               echo Aud-CLI-o ist ein Terminal Skript und wurde von Monstanner erstellt.
               echo Aud-CLI-o gibt es für GNU/Linux und Windows.
               echo Aktuelle Version: 1.0 20211009
-              echo Link zu YouTube-DL MP3: www.github.com/Monstanner/YouTube-DL-MP3
+              echo Link zu Aud-CLI-o: www.github.com/Monstanner/Aud-CLI-o
               echo Fork von YouTube-DL MP3 v.1.2 20210919
               echo ---------------------------------------------------
               ;;
